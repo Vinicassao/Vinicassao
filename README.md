@@ -1,8 +1,8 @@
 ### Ola! Eu sou o Vinicius Nogueira
 ##
 - 💻 Sou estudante de Análise e desenvolvimento de sistemas.
-- 📚 Atualmente estou estudando bastante html, css e python.
-- 📫 Contate-me no email: nicocassao@gmail.com
+- 📚 Atualmente estou estudando html, css, javascript, python e MySQL
+- 📫 Contate-me no email: viniciuscassao@outlook.com
 ##
 <div align="center">
   <a href="https://github.com/Vinicassao">
