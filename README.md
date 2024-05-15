@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Vinicius Nogueira
 ##
 - 💻 Sou estudante de Análise e desenvolvimento de sistemas.
-- 📚 Atualmente estou estudando html, css, javascript, python e MySQL
+- 📚 Atualmente estou estudando javascript, react, nodejs, typescript, python, django e mongodb
 - 📫 Contate-me no email: viniciuscassao@outlook.com
 ##
 <div align="center">
@@ -23,7 +23,7 @@
   
 <div>
   <a href="https://instagram.com/vininog_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nicocassao@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white target="_blank"></a>
+  <a href = "mailto:viniciuscassao@outlook.com"><img src=https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF></a>
   <a href= "https://www.linkedin.com/in/vinicius-nogueira-cass%C3%A3o/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
     
