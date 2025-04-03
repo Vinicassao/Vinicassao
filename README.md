@@ -1,7 +1,7 @@
 ### Ola! Eu sou o Vinicius Nogueira
 ##
 - 💻 Sou estudante de Análise e desenvolvimento de sistemas.
-- 📚 Atualmente estou estudando javascript, react, nodejs, typescript, python, django e mongodb
+- 📚 Atualmente estou estudando javascript, react, nodejs, typescript, java, mysql
 - 📫 Contate-me no email: viniciuscassao@outlook.com
 ##
 <div align="center">
